@@ -111,7 +111,7 @@ h3{
     border: solid 3px #E2E2E2;/*線*/
     border-radius: 20px;/*角の丸み*/
     background-color: #E2E2E2;
-    margin-left: 200px;
+    margin:auto;
     display: flex;
 }
 
